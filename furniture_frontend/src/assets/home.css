@@ -1,0 +1,35 @@
+  /* Newsletter */
+  .newsletter {
+    padding: 4rem 1rem;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .newsletter h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .newsletter-input {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  
+  .newsletter-input input {
+    padding: 0.75rem;
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .newsletter-input button {
+    padding: 0.75rem 1.5rem;
+    background-color: #634832;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
